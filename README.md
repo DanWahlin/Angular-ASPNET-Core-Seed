@@ -4,15 +4,15 @@ This project provides a "seed" starter project to simplify getting started with
 Angular and ASP.NET Core.
 
 
-## Software Requirements To Run Locally
+## Software Requirements
 
 * Visual Studio 2017 Community (or higher) for Windows. Any editor on Mac.
 * ASP.NET Core SDK 1.0 or higher - http://dot.net 
 * Node.js 6.9 or higher
 
-### Running the Application Locally on Windows
+### Running the Application
 
-1. Open the .sln file in Visual Studio
+1. Open the .sln file in Visual Studio (or open the subfolder named `Angular_ASPNETCore_Seed` on Mac in an editor).
 
 1. Install Gulp: `npm install gulp -g`
 
