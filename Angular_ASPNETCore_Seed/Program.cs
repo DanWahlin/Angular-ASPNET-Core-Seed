@@ -1,8 +1,7 @@
-﻿using Angular_ASPNETCore_Seed;
-using Microsoft.AspNetCore;
+﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace AspNetCoreDotNetCore2._0App
+namespace Angular_ASPNETCore_Seed
 {
     public class Program
     {
