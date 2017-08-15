@@ -50,7 +50,7 @@ Angular and ASP.NET Core.
 
 1. Browse to http://localhost:5000
 
-### Using Webpack
+### Using Webpack 
 
 1. Run `npm run webpack-build-watch`
 
