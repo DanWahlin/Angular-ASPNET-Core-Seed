@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "commonjs",
+    "module": "es2015",
     "moduleResolution": "node",
     "sourceMap": true,
     "emitDecoratorMetadata": true,
@@ -11,12 +11,13 @@
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true
   },
+
+  "files": [
+    "wwwroot/app/app.module.ts",
+    "wwwroot/app/main.aot.ts"
+  ],
+
   "angularCompilerOptions": {
-    "genDir": "./app/ngfactory"
-  },
-  "exclude": [
-    "node_modules",
-    "lib",
-    "app/main.aot.ts"
-  ]
+   "genDir": "./wwwroot/aot"
+ }
 }

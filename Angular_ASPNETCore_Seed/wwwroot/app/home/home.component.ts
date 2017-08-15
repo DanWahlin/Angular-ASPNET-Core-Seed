@@ -3,7 +3,6 @@
 import { DataService } from '../core/services/data.service';
 
 @Component({
-    moduleId: module.id,
     selector: 'home',
     template: `
         <h1>{{ message }}</h1>
