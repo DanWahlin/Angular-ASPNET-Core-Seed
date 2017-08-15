@@ -52,6 +52,13 @@ Angular and ASP.NET Core.
 
 ### Using Webpack
 
-1. Run `npm run webpack-build-watch`. 
+1. Run `npm run webpack-build-watch`
 
 1. The webpack bundle scripts will be added into wwwroot/devDist and script tags to them will be added to wwwroot/index.html. Open Views/Shared/_Layout.cshtml and remove the scripts in the head section. Copy the scripts from index.html to the bottom of _Layout.cshtml.
+
+1. To run AOT, set your NODE_ENV variable to `production` and re-run `npm run webpack-build-watch`
+
+### Why Isn't the Angular CLI Used for this Project?
+
+The Angular CLI provides a great way to work with Angular projects. However, not every company 
+wants the inner workings of webpack, bundling and AOT hidden (the CLI does allow you to `eject` however to see the webpack file). This project has all of the files out in the "open" so you can see exactly what is going on.
