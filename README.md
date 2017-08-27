@@ -54,7 +54,7 @@ Angular and ASP.NET Core.
 
 1. Run `npm run build`
 
-1. The webpack bundle scripts will be added into wwwroot/devDist and script tags to them will be added to wwwroot/index.html. Open Views/Shared/_Layout.cshtml and remove the scripts in the head section. Copy the scripts at the bottom of index.html to the bottom of _Layout.cshtml.
+1. The webpack bundle scripts will be added into wwwroot/devDist and script tags to them will be added to wwwroot/home.html. Open Views/Shared/_Layout.cshtml and remove the scripts in the head section. Copy the scripts at the bottom of index.html to the bottom of _Layout.cshtml.
 
 1. To run AOT, set your NODE_ENV environment variable to `production` and re-run `npm run build`
 
