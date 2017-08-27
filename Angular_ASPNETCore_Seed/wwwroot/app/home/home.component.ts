@@ -4,9 +4,7 @@ import { DataService } from '../core/services/data.service';
 
 @Component({
     selector: 'home',
-    template: `
-        <h1>{{ message }}</h1>
-    `
+    templateUrl: './home.component.html'
 })
 export class HomeComponent implements OnInit {
 

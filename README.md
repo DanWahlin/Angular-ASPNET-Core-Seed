@@ -61,4 +61,4 @@ Angular and ASP.NET Core.
 ### Why Isn't the Angular CLI Used for this Project?
 
 The Angular CLI provides a great way to work with Angular projects. However, not every company 
-wants the inner workings of webpack, bundling and AOT hidden (the CLI does allow you to `eject` however to see the webpack file). This project has all of the files out in the "open" so you can see exactly what is going on.
+wants the inner workings of webpack, bundling and AOT hidden (the CLI does allow you to `eject` to see the webpack file). This project has all of the files out in the "open" so you can see exactly what is going on (something I prefer for builds).

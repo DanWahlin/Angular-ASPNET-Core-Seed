@@ -8,7 +8,6 @@ const webpack = require('webpack'),
 
 var aotPlugin = new ngToolsWebpack.AotPlugin({
   tsConfigPath: "./tsconfig.aot.json",
-  entryModule: path.resolve(rootDir, "wwwroot/app/app.module#AppModule"),
 });
 
 const env = process.env.NODE_ENV;
