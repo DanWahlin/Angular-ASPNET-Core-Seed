@@ -1,6 +1,6 @@
 const env = process.env.NODE_ENV || 'development';
 
-console.log('Running Webpack in ' + env + ' mode.');
+console.log('Running Webpack in ***' + env.toUpperCase() + '*** mode.');
 
 if (env === 'development') {
     module.exports = require('./config/webpack.development');
