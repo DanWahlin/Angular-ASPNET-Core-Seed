@@ -7,7 +7,7 @@ Angular and ASP.NET Core.
 ## Software Requirements To Run Locally
 
 * Visual Studio 2017 Community 15.3.3 (or higher) for Windows. VERY IMPORTANT to have 15.3.3 or higher so make sure you've installed the latest updates!
-* Any editor on Mac.
+* Any editor on Mac although VS Code (https://code.visualstudio.com) is recommended.
 * ASP.NET Core SDK 2.0 or higher - http://dot.net 
 * Node.js 6.10 or higher
 
