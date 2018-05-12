@@ -8,5 +8,6 @@
       "**/config/*.js": {
         "when": "$(basename).js.map"
       }
-    }
-}
+    },
+    "git.ignoreLimitWarning": true
+  }
