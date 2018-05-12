@@ -1,0 +1,11 @@
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.csprojResolveAssemblyReference.cache
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.csproj.CoreCompileInputs.cache
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.AssemblyInfoInputs.cache
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.AssemblyInfo.cs
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/bin/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.deps.json
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/bin/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.runtimeconfig.json
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/bin/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.runtimeconfig.dev.json
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/bin/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.dll
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/bin/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.pdb
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.dll
+/Users/danwahlin/Dropbox/Projects/GitHub/Angular-ASPNET-Core-Seed/obj/Debug/netcoreapp2.0/Angular-ASPNET-Core-Seed.pdb
