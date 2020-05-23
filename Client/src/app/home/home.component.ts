@@ -3,7 +3,7 @@
 import { DataService } from '../core/services/data.service';
 
 @Component({
-    selector: 'home',
+    selector: 'app-home',
     templateUrl: './home.component.html'
 })
 export class HomeComponent implements OnInit {
